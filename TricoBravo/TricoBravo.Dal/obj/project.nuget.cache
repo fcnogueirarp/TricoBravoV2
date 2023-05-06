@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "zoc4q5HwritRH8lYH47SK9LQbqBlAVGEPI9jMQ5MZbPuYYVayO12rr7FBuapSLAqb27KICqIRi9K5e1MN3bJPg==",
+  "dgSpecHash": "GRkAV+OLULfqxw+l1JImQV+VNhS95KfAfyUaSK6sSZYWNlS+bb13SFaZZwX4Thiwl0/OO2Zwdmp5xLxjYo9MFg==",
   "success": true,
   "projectFilePath": "C:\\git\\TricoBravo2\\TricoBravo\\TricoBravo.Dal\\TricoBravo.Dal.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\casa\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\casa\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\casa\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\casa\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\casa\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

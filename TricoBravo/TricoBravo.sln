@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TricoBravo.Dal.PostgreSQL",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TricoBravo.Dal.Oracle", "TricoBravo.Dal.Oracle\TricoBravo.Dal.Oracle.csproj", "{93D2D33F-9185-490A-A12A-92317C20B548}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TricoBravo.Model", "TricoBravo.Model\TricoBravo.Model.csproj", "{4C69627E-0D36-40A4-B295-47923492E3AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{93D2D33F-9185-490A-A12A-92317C20B548}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93D2D33F-9185-490A-A12A-92317C20B548}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93D2D33F-9185-490A-A12A-92317C20B548}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C69627E-0D36-40A4-B295-47923492E3AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C69627E-0D36-40A4-B295-47923492E3AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C69627E-0D36-40A4-B295-47923492E3AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C69627E-0D36-40A4-B295-47923492E3AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
